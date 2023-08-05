@@ -25,7 +25,7 @@ local Plr = game:GetService("Players").LocalPlayer
 local Data = game:GetService("ReplicatedStorage")["Player_Data"][game.Players.LocalPlayer.Name]
 local Tool = game:GetService("ReplicatedStorage").Tools:GetChildren()
 local WebhookURL = "" 
-game:GetService("Players").LocalPlayer.DisplayName = "Fuck_You_Blinx_Is_Best"
+game:GetService("Players").LocalPlayer.DisplayName = "FuckBlinx"
 
 local function GetHuman()
     local h = LP.Character
